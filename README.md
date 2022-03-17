@@ -39,24 +39,27 @@ AR friend or foe awareness system/tactical map for ground troops, using thermal 
 ## Hardware
 
 ## Thermoimaging / AR Headset kit
- | TOTAL:                           | $10000 |
- | -------------------------------- | ------ |
- | DJI Mavic 2 Enterprise Advaced   | $5500  |
- | Microsoft Hololens 2             | $2500  |
+
+| TOTAL:                           | $10000 |
+|-------------------------------- | ------ |
+| DJI Mavic 2 Enterprise Advaced   | $5500  |
+| Microsoft Hololens 2             | $2500  |
 
  
 ## Day-vision / AR Headset kit 
- | TOTAL:                           | $3000  |
- | -------------------------------- | ------ |
- | DJI Mavic Air 2                  | $500   |
- | Microsoft Hololens 2             | $2500  |
+
+| TOTAL:                           | $3000  |
+|----------------------------------|--------|
+| DJI Mavic Air 2                  | $500   |
+| Microsoft Hololens 2             | $2500  |
 
  
 ## Day-vision kit 
- | TOTAL:                           |  $1000 |
- |----------------------------------|--------|
- | DJI Mavic Air 2                  |  $500  |
- | Apple iPhone XR                  |  $500  |
+
+| TOTAL:                           |  $1000 |
+|----------------------------------|--------|
+| DJI Mavic Air 2                  |  $500  |
+| Apple iPhone XR                  |  $500  |
 
   
 
