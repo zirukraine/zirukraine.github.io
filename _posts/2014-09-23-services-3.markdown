@@ -1,6 +1,6 @@
 ---
 layout: default
-img: drone1.png
+img: drone_station1.png
 category: Services
 title: Programmatically Controlled Quadcopter Swarm
 description: |

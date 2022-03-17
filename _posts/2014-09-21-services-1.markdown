@@ -1,6 +1,6 @@
 ---
 layout: default
-img: helmet1.png
+img: helmet2.png
 category: Services
 title: In-Helmet AR Headset
 description: |
