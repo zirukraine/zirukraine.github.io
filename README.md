@@ -1,4 +1,4 @@
-# Zir
+# Зiр / Zir
 
 AR friend or foe awareness system/tactical map for ground troops, using thermal and visible images from programmatically piloted quadcopter
 
