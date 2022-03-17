@@ -1,22 +1,6 @@
-# System of the Augmented Vision for the ground troops using thermoimaging aerial videostream of the programmatically controlled quadcopter 
+# Zir
 
-
-## Description
-
-Our product is an AR awareness system for ground troops, leveraging thermal and visible images from 
-
-
-## Resources
-
-|          |                              TOTAL $   |$2475000|
-|----------|----------------------------------------|--------|
-| 50x      | DJI Mavic 2 Enterprise Advanced Drone  |  $6500 |
-| 500x     |  HoloLens 2                            |  $2500 |
-|          | Aerial vehicle/humans recogition ML model |  $? |
-|          | Quadcopter orchestrating system        |   $?   |
-|          | AR client - Hololens  2                | $300000|
-|          | AR client - iPhone                     | $300000|
-|          | Server                                 | $300000|
+AR friend or foe awareness system/tactical map for ground troops, using thermal and visible images from programmatically piloted quadcopter
 
 
 ## Features
@@ -75,3 +59,10 @@ Our product is an AR awareness system for ground troops, leveraging thermal and 
  | Apple iPhone XR                  |  $500  |
 
   
+
+## Limited Deployment
+
+|          |                              TOTAL $   |$1575000|
+|----------|----------------------------------------|--------|
+| 50x      | DJI Mavic 2 Enterprise Advanced Drone  |  $6500 |
+| 500x     |  HoloLens 2                            |  $2500 |
