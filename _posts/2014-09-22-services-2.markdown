@@ -1,10 +1,21 @@
 ---
 layout: default
-img: dog.png
+img: iphones.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: iPhone Application
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+
+
+### iPhone Application
+
+ - Geographical map AR tab
+   - Street names
+   - Tactical waypoints
+ - Flat map tab
+ - 3D realtime "around the corner" object display:
+   - barricades
+   - vehicles
+   - humans
+ - Friend or foe highligting
+ - Setting of tactical waypoint with touch

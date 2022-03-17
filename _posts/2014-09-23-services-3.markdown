@@ -1,8 +1,15 @@
 ---
 layout: default
-img: phones.png
+img: drone1.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Quadcopter Swarm
 description: |
 ---
 This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+
+
+### Programmatically Controlled Quadcopter Swarm
+
+ - Evasive flight over the battle field
+ - Thermal and visible video feed
+ - Vehicle/human recognition and tracking

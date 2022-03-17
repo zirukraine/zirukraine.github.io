@@ -35,6 +35,11 @@ AR friend or foe awareness system/tactical map for ground troops, using thermal 
  - Friend or foe highligting
  - Setting of tactical waypoint with touch
 
+### Programmatically Controlled Quadcopter Swarm
+
+ - Evasive flight over the battle field
+ - Thermal and visible video feed
+ - Vehicle/human recognition and tracking
 
 ## Hardware
 

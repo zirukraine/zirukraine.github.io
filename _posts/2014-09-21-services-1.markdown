@@ -1,8 +1,25 @@
 ---
 layout: default
-img: ipad.png
+img: helmet1.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: AR Headset
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+
+### In-Helmet AR Headset
+
+ - Protective glasses support 
+ - Geographical map AR overlay
+   - Street names
+   - Tactical waypoints
+ - Flat map overlay
+ - 3D realtime "around the corner" object display:
+   - barricades
+   - vehicles
+   - humans
+ - Friend or foe highligting
+ - Gaze-controlled
+   - Silent comm
+   - Flat map overlay
+   - Setting of tactical waypoint
