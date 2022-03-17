@@ -54,7 +54,7 @@ AR friend or foe awareness system/tactical map for ground troops, using thermal 
  
 ## Day-vision kit 
  | TOTAL:                           |  $1000 |
- | -------------------------------- | ------ |
+ |----------------------------------|--------|
  | DJI Mavic Air 2                  |  $500  |
  | Apple iPhone XR                  |  $500  |
 
