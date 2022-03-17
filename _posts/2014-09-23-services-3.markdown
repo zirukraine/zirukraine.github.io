@@ -2,13 +2,10 @@
 layout: default
 img: drone1.png
 category: Services
-title: Quadcopter Swarm
+title: Programmatically Controlled Quadcopter Swarm
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
 
-
-### Programmatically Controlled Quadcopter Swarm
 
  - Evasive flight over the battle field
  - Thermal and visible video feed

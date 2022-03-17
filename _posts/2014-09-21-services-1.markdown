@@ -2,12 +2,10 @@
 layout: default
 img: helmet1.png
 category: Services
-title: AR Headset
+title: In-Helmet AR Headset
 description: |
 ---
 
-
-### In-Helmet AR Headset
 
  - Protective glasses support 
  - Geographical map AR overlay

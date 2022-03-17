@@ -1,13 +1,12 @@
 ---
 layout: default
-img: iphones.png
+img: phones.png
 category: Services
 title: iPhone Application
 description: |
 ---
 
 
-### iPhone Application
 
  - Geographical map AR tab
    - Street names
