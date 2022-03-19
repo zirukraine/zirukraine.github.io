@@ -1,7 +1,7 @@
 <section id="services">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
- {% if post.category != 'job' %}
+ {% if post.category != 'Job' %}
 
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
