@@ -6,6 +6,6 @@ title: Careers
 description: 
 ---
 
-  - [Mobile Engineer (DJI SDK prefered)](/job/mobile_engineer)
+  - [Mobile Engineer](/job/mobile_engineer)
   - [Computer Vision Scientist](/job/computer_vision_scientist)
   - [Unity Developer](/job/unity_developer]
