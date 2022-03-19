@@ -6,7 +6,7 @@ title: Programmatically Controlled Quadcopter Swarm
 description: |
 ---
 
-
- - Evasive flight over the battle field
+ - Smart drone swarm positioning
+ - Evasive flight patterns
  - Thermal and visible video feed
  - Vehicle/human recognition and tracking
