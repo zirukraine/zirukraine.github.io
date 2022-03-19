@@ -1,12 +1,10 @@
 ---
 layout: default
 img: drone_hand.png
-category: Jobs
-title: 
+category: Job
+title: Career - Mobile Engineer (DJI SDK prefered)
 description: 
 ---
-
-  ### Mobile Engineer (DJI SDK prefered)
 
    - Hands on iOS developer expirience
     - Swift
