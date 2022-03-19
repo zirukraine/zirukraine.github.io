@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 img: drone2.png
 category: Donations
 title: Equipment Donations
+permalink: /donations
 description: |
 ---
 
