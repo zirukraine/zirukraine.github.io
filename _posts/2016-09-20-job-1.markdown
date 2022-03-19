@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: job
 img: drone_hand.png
 category: Job
 permalink: /job/mobile_engineer
