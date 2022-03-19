@@ -2,6 +2,7 @@
 layout: default
 img: drone_hand.png
 category: Job
+permalink: /job/mobile_engineer
 title: Career - Mobile Engineer (DJI SDK prefered)
 description: 
 ---
