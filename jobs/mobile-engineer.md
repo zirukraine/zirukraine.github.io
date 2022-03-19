@@ -8,10 +8,10 @@ description:
 ---
 
    - Hands on iOS developer expirience
-    - Swift
-    - C++/C code integration
-    - AppStore provisioning
-    - Continious integration
+     - Swift
+     - C++/C code integration
+     - AppStore provisioning
+     - Continious integration
    - *Preffered*: Expirience integrating DJI SDK
    - *Preffered*: Expirience integrating iOS/Android subsystems into Unity/Unreal application
    
