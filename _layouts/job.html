@@ -4,6 +4,9 @@
 
 	<body>
 		{% include header.html %}
+
+
+{% for post in site.posts reversed %}
 		 <div class="content-section-b">
 
         <div class="container">
@@ -22,9 +25,10 @@
 
         </div>
         <!-- /.container -->
+        {% endfor %}
 
     </div>
-    
+
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}
