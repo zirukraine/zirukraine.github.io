@@ -8,4 +8,4 @@ description:
 
   - [Mobile Engineer](/job/mobile_engineer)
   - [Computer Vision Scientist](/job/computer_vision_scientist)
-  - [Unity Developer](/job/unity_developer]
+  - [Unity Developer](/job/unity_developer)
