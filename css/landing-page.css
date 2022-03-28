@@ -26,6 +26,27 @@ h6 {
     font-weight: 400;
 }
 
+
+.video-wrapper {
+  /* Telling our absolute positioned video to 
+  be relative to this element */
+  position: relative;
+
+  width: 400px;
+  height: 200px;
+
+  /* Will not allow the video to overflow the 
+  container */
+  overflow: hidden;
+
+  /* Centering the container's content vertically 
+  and horizontally */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
